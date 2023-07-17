@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there!!
+
+My name is Ryan Park and I am a recent graudate with a passion in data analytics. 
+
+Projects 📁
+
+
+Tools 🔧
+* Languages: SQL, Python
+* Visualization: Tableau
 
 <!--
 **ryanpark0117/ryanpark0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
