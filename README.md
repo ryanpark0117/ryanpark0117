@@ -1,6 +1,6 @@
 ## Introducing Myself 🙋🏽‍♂️
 
-My name is Ryan Park and I am a recent graduate out of Bowdoin College with a passion in data analytics. 
+Hi there! My name is Ryan Park and I am a recent graduate out of Bowdoin College with a passion in data analytics. 
 
 ### Projects 📁
 * [NY Motor Crash Analysis](https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/tree/main)
