@@ -3,7 +3,8 @@
 Hi there! My name is Ryan Park and I am a recent graduate out of Bowdoin College with a passion in data analytics. 
 
 ### Projects 📁
-* [NY Motor Crash Analysis](https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/tree/main)
+* [NBA Draft Analysis (Python)](https://github.com/ryanpark0117/Python-Projects/blob/main/NBA-Draft-Analysis.ipynb)
+* [NY Motor Crash Analysis (SQL/Tableau)](https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/tree/main)
 
 
 ### Tools 🔧
