@@ -1,6 +1,6 @@
 ## Introducing Myself 🙋🏽‍♂️
 
-Hi there! My name is Ryan Park and I am a recent graduate out of Bowdoin College with a passion in data analytics. 
+Hi there! My name is Hyunkyu (Ryan) Park and I am a recent graduate out of Bowdoin College. 
 
 ### Projects 📁
 * [NBA Draft Analysis](https://github.com/ryanpark0117/Python-Projects/blob/main/NBA-Draft-Analysis.ipynb) (Python)
